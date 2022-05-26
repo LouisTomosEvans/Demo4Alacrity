@@ -127,13 +127,13 @@ return [
                 [
                     'name' => '🥈 Silver',
                     'short_description' => 'Get started using hunt intelligence via the Silver Plan',
-                    'monthly_id' => 'price_1KfvgeD5fy9Yqy8V2MSuiHYa',
-                    'yearly_id' => 'price_1KfvgeD5fy9Yqy8VfKiFQEaM',
+                    'monthly_id' => 'price_1Kzp1aIYXNZxXk5hsoKyXf5w',
+                    'yearly_id' => 'price_1Kzp2uIYXNZxXk5hzW9pFNWY',
                     'yearly_incentive' => 'Get 2 Months Free',
                     'features' => [
-                        'Locate Facebook and Instagram Places',
-                        'Locate VKontakte Photos (Russian Social Media)',
-                        'Find Tweets by Location',
+                        'Feature 1',
+                        'Feature 2',
+                        'Feature 3',
                         'and many more features...',
                     ],
 
